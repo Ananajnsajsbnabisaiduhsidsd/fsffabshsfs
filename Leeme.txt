@@ -1,0 +1,12 @@
+
+## Abrir cmd en la carpeta
+
+## npm i discord.js
+
+## npm i chalk
+
+## SE NECESITA TENER INSTALADO NODE
+
+## Link:
+
+https://nodejs.org/es/
